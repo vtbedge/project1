@@ -1,4 +1,4 @@
-package project1;
+package trest1;
 
 public class test1 {
 
